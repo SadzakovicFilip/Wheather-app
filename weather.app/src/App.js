@@ -7,6 +7,7 @@ import { useState } from 'react';
 import Forecast from './components/forecast/forecast';
 
 //rokamo ga jako
+// nenad
 
 function App() {
   const[currentWeather,setCurrentWeather] = useState(null)
