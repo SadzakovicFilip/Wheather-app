@@ -6,7 +6,8 @@ import { WEATHER_API_KEY, WEATHER_API_URL } from './api';
 import { useState } from 'react';
 import Forecast from './components/forecast/forecast';
 
-//rokamo ga jako
+//rokamo ga jak
+//pokusaj 2 
 
 function App() {
   const[currentWeather,setCurrentWeather] = useState(null)
