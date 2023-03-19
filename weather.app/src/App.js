@@ -8,6 +8,7 @@ import Forecast from './components/forecast/forecast';
 
 //rokamo ga jako
 // nenad
+//Filipov pokusaj 
 
 function App() {
   const[currentWeather,setCurrentWeather] = useState(null)
